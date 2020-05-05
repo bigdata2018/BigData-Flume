@@ -6,9 +6,9 @@
 
 <nav>
 <a href="https://github.com/bigdata2018/BigData-Flume#一环境搭建">一、环境搭建</a><br/>
-<a href="https://github.com/bigdata2018/BigData-Hadoop#二flume入门">二、Flume入门</a><br/>
-<a href="https://github.com/bigdata2018/BigData-Hadoop#三flume进阶">三、Flume进阶</a><br/>
-    <a href="https://github.com/bigdata2018/BigData-Hadoop#四flume高级">四、Flume高级</a><br/>
+<a href="https://github.com/bigdata2018/BigData-Flume#二flume入门">二、Flume入门</a><br/>
+<a href="https://github.com/bigdata2018/BigData-Flume#三flume进阶">三、Flume进阶</a><br/>
+    <a href="https://github.com/bigdata2018/BigData-Flume#四flume高级">四、Flume高级</a><br/>
 </nav>
 
 
