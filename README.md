@@ -16,21 +16,21 @@
 
 ## 一、环境搭建
 
-#### [Flume安装](https://github.com/bigdata2018/BigData/blob/master/notes/installation/Flume%E5%AE%89%E8%A3%85.md)
+#### [Flume安装](https://github.com/bigdata2018/BigData-Flume/blob/master/notes/Flume%E5%AE%89%E8%A3%85.md)
 
 
 
-## 二、Flume入门
+## [二、Flume入门](https://github.com/bigdata2018/BigData-Flume/blob/master/notes/Flume%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B.md)
 
-#### [1.Flume 基本概念](https://github.com/bigdata2018/BigData/blob/master/notes/Flume%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+#### [1.Flume 基本概念](https://github.com/bigdata2018/BigData-Flume/blob/master/notes/Flume%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
 
-#### [2.Flume入门案例](https://github.com/bigdata2018/BigData-Flume/blob/master/notes/Flume%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+#### [2.Flume入门案例](https://github.com/bigdata2018/BigData-Flume/blob/master/notes/Flume%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B.md)
 
-#### [3.实时监控单个追加文件](https://github.com/bigdata2018/BigData-Flume/blob/master/notes/Flume%20%E5%B8%B8%E7%94%A8%20DDL%20.md)
+#### [3.实时监控单个追加文件](https://github.com/bigdata2018/BigData-Flume/blob/master/notes/Flume%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B.md#%E4%BA%8C%E3%80%81%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7%E5%8D%95%E4%B8%AA%E8%BF%BD%E5%8A%A0%E6%96%87%E4%BB%B6)
 
-#### [4.实时监控目录下多个新文件](https://github.com/bigdata2018/BigData-Flume/blob/master/notes/Flume%20%E5%B8%B8%E7%94%A8%20DDL%20.md)
+#### [4.实时监控目录下多个新文件](https://github.com/bigdata2018/BigData-Flume/blob/master/notes/Flume%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B.md#%E4%B8%89%E3%80%81%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7%E7%9B%AE%E5%BD%95%E4%B8%8B%E5%A4%9A%E4%B8%AA%E6%96%B0%E6%96%87%E4%BB%B6)
 
-#### [5.实时监控目录下的多个追加文件](https://github.com/bigdata2018/BigData-Flume/blob/master/notes/Flume%20%E5%B8%B8%E7%94%A8%20DDL%20.md)
+#### [5.实时监控目录下的多个追加文件](https://github.com/bigdata2018/BigData-Flume/blob/master/notes/Flume%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B.md#%E5%9B%9B%E3%80%81%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7%E7%9B%AE%E5%BD%95%E4%B8%8B%E7%9A%84%E5%A4%9A%E4%B8%AA%E8%BF%BD%E5%8A%A0%E6%96%87%E4%BB%B6)
 
 ## 三、Flume进阶
 
